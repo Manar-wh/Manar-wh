@@ -33,3 +33,13 @@
 <p align="center">
   <i>"Continuously learning and building logic one algorithm at a time."</i>
 </p>
+
+
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manar-wh/Manar-wh/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manar-wh/Manar-wh/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Manar-wh/Manar-wh/output/github-snake.svg">
+</picture>
