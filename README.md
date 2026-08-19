@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Manar Al-wahedi 👋
 
-<!--
-**Manar-wh/Manar-wh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Graduate (BSc)**  
+💻 Passionate about Problem Solving, C++, and Backend Development using C# & .NET.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Roadmap Progress (ProgrammingAdvices)
+
+- **Phase 1: Foundations & C++ Core (Course 01 -> 13)** — `Completed ✅`
+  - Logic Building, Algorithms, Advanced OOP, Data Structures Level 1.
+- **Phase 2: C#, .NET & Databases (Course 14 -> 24)** — `In Progress ⚙️`
+  - Currently mastering C# Foundations & .NET Applications.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** C++, C#
+- **Concepts:** Object-Oriented Programming (OOP), Data Structures, Algorithms
+- **IDE & Tools:** Visual Studio, Git, GitHub, Adobe Illustrator
+
+---
+
+### 📂 Featured Repositories
+
+- 🏦 **[BankProject](https://github.com/Manar-wh/BankProject)** — Console-based bank management system in C++ using OOP.
+- 🛠️ **[cpp-foundation-stage](https://github.com/Manar-wh/cpp-foundation-stage)** — Complete archive of Phase 1 courses and problem solutions.
+- 📅 **[clsDate-Library](https://github.com/Manar-wh/clsDate-Library)** & **[clsStrings-Library](https://github.com/Manar-wh/clsStrings-Library)** — Custom C++ helper libraries.
+
+---
+
+<p align="center">
+  <i>"Continuously learning and building logic one algorithm at a time."</i>
+</p>
