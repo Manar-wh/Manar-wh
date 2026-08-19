@@ -33,8 +33,3 @@
 <p align="center">
   <i>"Continuously learning and building logic one algorithm at a time."</i>
 </p>
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manar-wh&show_icons=true&theme=dark&hide_border=true" alt="Manar's GitHub Stats" />
-</p>
